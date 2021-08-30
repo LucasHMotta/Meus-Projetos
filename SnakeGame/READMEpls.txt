@@ -11,6 +11,7 @@ Instruções de como jogar:
 -Use as setas do teclado para movimentar a cobra;
 
 -Na esquerda existe um input color, para caso o jogador queira mudar a cor da cobra;
+(recomendo a cor rgb(0, 255, 0);
 
 -Quando o jogador atingir 10 pontos, o FPS começa a aumentar, aumentando a dificuldade,
 mas quase não dá pra perceber, só quando você fica bem grande.
